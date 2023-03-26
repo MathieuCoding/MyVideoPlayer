@@ -10,6 +10,7 @@ function App() {
     <div className="App">
       <h1 className="text-center">My Video Player</h1>
       <Uploader />
+      {/* <FileList /> */}
       <VideoPlayer />
     </div>
   )
