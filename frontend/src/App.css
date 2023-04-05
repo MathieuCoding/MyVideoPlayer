@@ -51,3 +51,8 @@ body {
   hsl(0deg 0% 0%) 100%
 );
 }
+
+#main-title {
+  color: #FFF;
+  border: 1px solid #000;
+}
