@@ -8,7 +8,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1 className="text-center">My Video Player</h1>
+      <h1 className="text-center" id="main-title">My Video Player</h1>
       <Uploader />
       {/* <FileList /> */}
       <VideoPlayer />
