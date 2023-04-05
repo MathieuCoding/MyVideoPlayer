@@ -28,7 +28,7 @@ export function Uploader() {
   };
 
       return (
-        <form onSubmit={handleSubmit} className="m-5 border border-dark rounded">
+        <form onSubmit={handleSubmit} id="uploader" className="m-5 border border-dark rounded">
             <label for="formFile" className="form-label m-3">Upload your video</label>
             <input className="form-control" type="file" onChange={handleFileChange} />
             <div className="m-3">
