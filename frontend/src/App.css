@@ -65,3 +65,7 @@ body {
   margin: 0 auto;
   width: 90%;
 }
+
+.form-label {
+  text-transform: capitalize;
+}
