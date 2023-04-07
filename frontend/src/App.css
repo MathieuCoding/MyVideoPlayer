@@ -66,6 +66,6 @@ body {
   width: 90%;
 }
 
-#form-label {
+.form-label {
   text-transform: capitalize;
 }
