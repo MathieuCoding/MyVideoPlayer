@@ -60,3 +60,8 @@ body {
 #uploader {
   background-color: #FFF;
 }
+
+.form-control {
+  margin: 0 auto;
+  width: 90%;
+}
